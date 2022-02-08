@@ -36,7 +36,7 @@ good looking, highly customizable and with very good optimization, this was insp
 ![escritorio](./fotos/desktop3.png)
 ![escritorio](./fotos/desktop5.png)
 ![escritorio](./fotos/desktop6.png)
-![escritorio](./fotos/chat_and_youtube.png)
+
 
 # Themes
 
