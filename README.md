@@ -1,4 +1,4 @@
-#Termux-Desktop
+## Termux-Desktop
 Set up a beautiful xfce desktop in termux 
 
 ## Requirements
