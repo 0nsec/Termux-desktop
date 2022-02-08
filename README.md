@@ -31,11 +31,11 @@ good looking, highly customizable and with very good optimization, this was insp
 
 > current version: 5.0.3 update 
 
-![escritorio](./fotos/desktop.png)
-![escritorio](./fotos/desktop2.png)
-![escritorio](./fotos/desktop3.png)
-![escritorio](./fotos/desktop5.png)
-![escritorio](./fotos/desktop6.png)
+![escritorio](./desktop.png)
+![escritorio](./desktop2.png)
+![escritorio](./desktop3.png)
+![escritorio](./desktop5.png)
+![escritorio](./desktop6.png)
 
 
 # Themes
