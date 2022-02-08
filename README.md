@@ -44,7 +44,7 @@ Aside from the above screenshots, there are many
 more themes you can change from settings, too
 other wallpapers
 
-![graphite](./heme1.png)
+![graphite](./theme1.png)
 ![Colliod](./theme2.png)
 
 ### Less apps ?, I have made a configuration to run the apps of a proot distro in termux native desktop. An example:
