@@ -44,8 +44,8 @@ Aside from the above screenshots, there are many
 more themes you can change from settings, too
 other wallpapers
 
-![graphite](./fotos/theme1.png)
-![Colliod](./fotos/theme2.png)
+![graphite](./heme1.png)
+![Colliod](./theme2.png)
 
 ### Less apps ?, I have made a configuration to run the apps of a proot distro in termux native desktop. An example:
 
@@ -58,9 +58,9 @@ firefox
 
 ### You can run proot apps without problems
 
-![firefox](./fotos/proot-firefox.png) 
-![libreoffice_load](./fotos/proot-libreoffice.png) 
-![libreoffice_app](./fotos/proot-libreoffice2.png) 
+![firefox](./proot-firefox.png) 
+![libreoffice_load](./proot-libreoffice.png) 
+![libreoffice_app](./proot-libreoffice2.png) 
 
 # Installation
 
